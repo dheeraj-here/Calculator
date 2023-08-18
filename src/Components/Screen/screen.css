@@ -1,0 +1,11 @@
+.sc{
+    width: 100%;
+    margin-bottom: 5%;
+    text-align: right;
+    height: 10vh;
+}
+.inp{
+    width: 100%;
+    height: 90%;
+    font-size: 6vh;
+}
